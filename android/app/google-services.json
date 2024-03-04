@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251109094096",
+    "project_id": "stylehub-56609",
+    "storage_bucket": "stylehub-56609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251109094096:android:ed8ce480ff38114547e4d5",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOohcpcfuh4w3CI-FJOsPxmfRonk5B8C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
